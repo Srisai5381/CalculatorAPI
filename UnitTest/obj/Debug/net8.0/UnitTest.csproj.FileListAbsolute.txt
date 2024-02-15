@@ -1,0 +1,7 @@
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\UnitTest\bin\Debug\net8.0\CoverletSourceRootsMapping_UnitTest
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\UnitTest\obj\Debug\net8.0\UnitTest.csproj.AssemblyReference.cache
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\UnitTest\obj\Debug\net8.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfo.cs
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\UnitTest\obj\Debug\net8.0\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\UnitTest\obj\Debug\net8.0\UnitTest.sourcelink.json

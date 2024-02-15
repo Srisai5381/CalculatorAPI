@@ -33,3 +33,39 @@ C:\Users\danda\source\repos\Calculator API\Calculator API\obj\Debug\net8.0\refin
 C:\Users\danda\source\repos\Calculator API\Calculator API\obj\Debug\net8.0\Calculator API.pdb
 C:\Users\danda\source\repos\Calculator API\Calculator API\obj\Debug\net8.0\Calculator API.genruntimeconfig.cache
 C:\Users\danda\source\repos\Calculator API\Calculator API\obj\Debug\net8.0\ref\Calculator API.dll
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\bin\Debug\net8.0\Calculator API.exe
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\bin\Debug\net8.0\Calculator API.deps.json
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\bin\Debug\net8.0\Calculator API.runtimeconfig.json
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\bin\Debug\net8.0\Calculator API.dll
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\bin\Debug\net8.0\Calculator API.pdb
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\Calculator API.csproj.AssemblyReference.cache
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\Calculator API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\Calculator API.AssemblyInfoInputs.cache
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\Calculator API.AssemblyInfo.cs
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\Calculator API.csproj.CoreCompileInputs.cache
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\Calculator API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\Calculator API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\Calculator API.sourcelink.json
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\staticwebassets\msbuild.Calculator API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.Calculator API.props
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Calculator API.props
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Calculator API.props
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\scopedcss\bundle\Calculator API.styles.css
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\Calculator API.csproj.CopyComplete
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\Calculator API.dll
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\refint\Calculator API.dll
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\Calculator API.pdb
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\Calculator API.genruntimeconfig.cache
+C:\Users\danda\OneDrive\Documents\calculator\CalculatorAPI\obj\Debug\net8.0\ref\Calculator API.dll
